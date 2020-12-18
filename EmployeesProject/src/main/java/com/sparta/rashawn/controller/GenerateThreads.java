@@ -11,7 +11,7 @@ import java.util.List;
 public class GenerateThreads {
 
 
-    private int numberOfThreads = 2;
+    private int numberOfThreads = 20;
     private Thread[] threadList = new Thread[numberOfThreads];
 
     private static Logger logger = LogManager.getLogger(GenerateThreads.class);
