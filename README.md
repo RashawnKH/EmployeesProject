@@ -5,7 +5,7 @@ Once the duplicates have been removed it will then insert the processed data int
 How to use the application
 -Ensure that you have a MySQL Database
 -Enter the URL to your database in the insert statement in the EmployeeDAO class
--Create a login.properties file in the resources 
+-Create a login.properties file in the resources folder 
 -In the login.properties file create a userName and password in the same syntax for example:
 userName = user1
 password = pass123
